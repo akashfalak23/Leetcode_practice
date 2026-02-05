@@ -13,6 +13,6 @@ class Solution {
 
             numBottles = newBottles + remBottles;
         }  
-        return ans;  
+        return ans;
     }
 }
